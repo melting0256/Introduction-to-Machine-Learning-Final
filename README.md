@@ -20,3 +20,5 @@ Also, you can skip this step and directly use `109550139_Final_inference.ipynb` 
 >P.S. Since we save the trained model as `model.h5`, we need to download [the model](https://drive.google.com/drive/folders/1bKJTxncll687Rdsdr0xXWU_3BLsR8fR0) first, then run `109550139_Final_inference.ipynb`.
 
 ## Evaluate
+Use `109550139_Final_inference.ipynb` to evaluate the model performace.
+If you want to evaluate the model performance durectly, you need to download [the model](https://drive.google.com/drive/folders/1bKJTxncll687Rdsdr0xXWU_3BLsR8fR0) first, then run `109550139_Final_inference.ipynb`.

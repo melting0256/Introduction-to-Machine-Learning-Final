@@ -16,8 +16,6 @@ First install the package(for google colab)
 ## Train the model
 After create the environment, you can use `109550139_Final_train.ipynb` to train the model.
 
-Also, you can skip this step and directly use `inference.py` to evaluate the model performace.
-
-Since we save the trained model as `model.h5`, we need to download [the model](https://drive.google.com/drive/folders/1bKJTxncll687Rdsdr0xXWU_3BLsR8fR0)
+Since we save the trained model as `model.h5`, we need to download [the model](https://drive.google.com/drive/folders/1bKJTxncll687Rdsdr0xXWU_3BLsR8fR0) and directly use `inference.py` to evaluate the model performace.
 
 ## Evaluate

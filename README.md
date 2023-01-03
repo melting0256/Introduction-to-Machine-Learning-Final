@@ -26,6 +26,7 @@ If you want to evaluate the model performance durectly, you need to download [th
 ## Submission
 After finishing `109550139_Final_inference.ipynb`, you will get `submission.csv`
 Here is the accuracy result
+
 ![image](./README_img/submit2.jpg)
 | Submission         | Private Score   | Public Score   |
 | ------------------ |---------------- | -------------- |

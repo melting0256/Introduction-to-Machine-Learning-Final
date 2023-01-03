@@ -26,7 +26,7 @@ Also, you can skip this step and directly use `109550139_Final_inference.ipynb` 
 ## Evaluate
 Use `109550139_Final_inference.ipynb` to evaluate the model performace.
 
-If you want to evaluate the model performance durectly, you need to download [the model](https://drive.google.com/drive/folders/1bKJTxncll687Rdsdr0xXWU_3BLsR8fR0) first, then run `109550139_Final_inference.ipynb`.
+If you want to evaluate the model performance directly, you need to download [the model](https://drive.google.com/drive/folders/1bKJTxncll687Rdsdr0xXWU_3BLsR8fR0) first, then run `109550139_Final_inference.ipynb`.
 
 ## Results
 After finishing `109550139_Final_inference.ipynb`, you will get `submission.csv`.

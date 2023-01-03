@@ -14,7 +14,8 @@ First install the package(for google colab)
 ```
 
 ## Train the model
-After create the environment, you can use `109550139_Final_train.ipynb` to train the model."\n"
+After create the environment, you can use `109550139_Final_train.ipynb` to train the model.
+
 The following structure is the CNN model structure:
 
 ![image](./README_img/summary.jpg)
@@ -27,8 +28,9 @@ Use `109550139_Final_inference.ipynb` to evaluate the model performace.
 If you want to evaluate the model performance durectly, you need to download [the model](https://drive.google.com/drive/folders/1bKJTxncll687Rdsdr0xXWU_3BLsR8fR0) first, then run `109550139_Final_inference.ipynb`.
 
 ## Submission
-After finishing `109550139_Final_inference.ipynb`, you will get `submission.csv`.\n
-Here is the accuracy result
+After finishing `109550139_Final_inference.ipynb`, you will get `submission.csv`.
+
+Here is the accuracy result:
 
 ![image](./README_img/submit2.jpg)
 | Submission         | Private Score   | Public Score   |

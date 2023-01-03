@@ -14,7 +14,7 @@ First install the package(for google colab)
 ```
 
 ## Train the model
-After create the environment, you can use `109550139_Final_train.ipynb` to train the model.\n
+After create the environment, you can use `109550139_Final_train.ipynb` to train the model."\n"
 The following structure is the CNN model structure:
 
 ![image](./README_img/summary.jpg)

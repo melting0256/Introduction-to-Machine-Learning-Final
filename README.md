@@ -1,4 +1,4 @@
-# Introduction-to-Machine-Learning-Final Project
+# Introduction-to-Machine-Learning Final Project
 
 ## Environment
 * python: 3.8.16

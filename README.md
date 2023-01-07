@@ -36,7 +36,7 @@ After finishing `109550139_Final_inference.ipynb`, you will get `submission.csv`
 
 Here is the accuracy result:
 
-![image](./README_img/submit2.jpg)
+![image](./README_img/submission.jpg)
 | Submission         | Private Score   | Public Score   |
 | ------------------ |---------------- | -------------- |
 | submission.csv     |     0.59014     |      0.58504   |

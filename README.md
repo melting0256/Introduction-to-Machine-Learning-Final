@@ -12,6 +12,11 @@
 !pip install -q keras
 !pip install tensorflow
 ```
+1. run `109550139_Final_train.ipynb` and get `model.h5`
+2. specify the path to load `model.h5` in `109550139_Final_inference.ipynb`
+3. run `109550139_Final_inference.ipynb`
+4. produce `submission.csv`
+
 * To reproduce `submission.csv` without retraining :
 1. download [the pretrained model](https://drive.google.com/drive/folders/1bKJTxncll687Rdsdr0xXWU_3BLsR8fR0) 
 2. run `109550139_Final_inference.ipynb`
